@@ -1,4 +1,6 @@
 # wassup2
 wassup2
 
-test
+test 
+
+say hello
