@@ -5,6 +5,4 @@ test
 
 say hello
 
-pull
-
-push 연습 고고
+pull 연습 ㄱㄱ
